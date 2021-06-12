@@ -1,7 +1,7 @@
 # Projeto_Amor_de_Mae
 Esse projeto contém as análises de dados do SUS e IBGE a respeito da vacinação em gestantes e óbitos fetais no Brasil e no Nordeste 
 [<img src="https://img.shields.io/badge/author-Glaudemias-yellow?style=flat-square"/>](https://github.com/Glaudemias)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZcJLDEQBu6MBYJy_MRp0Ez6EmpDNLuKr?usp=sharing)
-![Dengue - Glaudemais_JPG](https://user-images.githubusercontent.com/84024639/120666112-b8ba7a80-c462-11eb-985a-10d5a483fa93.jpg)
+
 
                                                                             [INCOMPLETE]
 
@@ -22,6 +22,9 @@ This project is the result of module 2, of the Bootcamp in Data Science applied 
 
 Based on this I'll analyse the vaccine curve in  Brazil and in the states(with a focus on the northeastern states), seeking to answers and trying to understand the dynamics of the relationship between vaccines and  fetal deaths in Braazil.
 
+<p align="center">
+  <img alt="Na imagem tem várias vacinas espalhadas" src="Image/vacina.jpeg" />
+
 ## Vaccines x Fetal Death
   The Vacination of pregnant women its priority to World Health Organization (WHO), and represents the first love act betwen a mother and your baby. The vaccines prevant some complicantion in the birth moment and the diseases development during the child's growth. The maternal antibodies are very important to the baby health in the first 12 months of the pregnancy, when it still in the mother womb. The antibodies provided by the mother, protect the baby, until it can be vaccinated and develops his own immune defenses. 
   
@@ -32,8 +35,6 @@ Based on this I'll analyse the vaccine curve in  Brazil and in the states(with a
 * Pregnant women and babies, constitue a high risk group for the influenza virus, and vacination can avoid the hospitalization and severe respiratory conditions caused by the virus;
 
 * Whitout Knowing it, woman can transmit the Hepatitis B virus, to your baby;
-
-![vacina](https://user-images.githubusercontent.com/84024639/121777943-f0b07480-cb6a-11eb-8831-cf33d4919c0d.jpeg)
 
 ## Vaccines analyzed
 
@@ -68,9 +69,13 @@ And this information is used to:
   * And was used to make a statiscal aproximation, of the percentage of vaccines numbers/fetal deaths, by the year.
   
 A detailed description of each vaccine curve dataset and its meaning is also provided in the DATASUS website, you can find [here](http://tabnet.datasus.gov.br/cgi/pni/Imun_doses_aplic_desde_1994.pdf)
-
+  
 # Methodology
-The datasets are analysed following the logic of approximation of the scale, when the first moment I looking for the distribution of the vaccine curve and fetal deaths per year, in the country. The Second part I'll analyse the same datasets across the brazilian states, trying to find some correlation, and understanding the distribution of vaccine and fetal deaths in the northeastern states. Finally I'will analysed the distibution the same datasets but, in this last part the data will spatialized in a map, considering the most critical year's and all brazilian states.
+* The datasets are analysed following the logic of approximation of the scale, when the first moment I looking for the distribution of the vaccine curve and fetal deaths per year, in the country. 
+  
+* The Second part I'll analyse the same datasets across the brazilian states, trying to find some correlation, and understanding the distribution of vaccine and fetal deaths in the northeastern states. 
+  
+* Finally I'will analysed the distibution the same datasets but, in this last part the data will spatialized in a map, considering the most critical year's and all brazilian states.
 
 With this we were able to made some conclusions about the variables observerd, you cand find them in the [Conclusion](#concl)
 
@@ -123,5 +128,9 @@ If you have any tips or suggestions, feel free to contact me here:
 
 [<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" />](mailto:glaudemias.arqurb@gmail.com)
 
+And before I forget...
+  <p align="rigth">
+  <img width="360" height="460" alt="Zé gotinha metendo o brega funk cabuloso" src="Image/ezgif.com-gif-maker.gif" />
+     ...viva o SUS :)
 
 
