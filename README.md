@@ -51,7 +51,7 @@ Based on this I'll analyse the vaccine curve in  Brazil and in the states(with a
 <a name="dt"></a>
 # Data
 
-The data used in this analysis was obtained from the DATASUS aplication TABNET, and the IBGE aplication SIDRA on Jun 06, 2021, and you can find them, [here](https://github.com/Glaudemias/PROJETO_FINAL_MOD1-DS_2-Bootcamp_Alura/tree/main/Dados) on my repositorie. The datasets chosen have an incompatibility of the dates, and for that I decided divide them in 2 groups of the vaccines curves, wich is:
+The data used in this analysis was obtained from the DATASUS aplication [TABNET](), and the IBGE aplication SIDRA on Jun 06, 2021, and you can find them, [here](https://github.com/Glaudemias/PROJETO_FINAL_MOD1-DS_2-Bootcamp_Alura/tree/main/Dados) on my repositorie. The datasets chosen have an incompatibility of the dates, and for that I decided divide them in 2 groups of the vaccines curves, wich is:
 
 * **Group 1**
   * The vacines curves from 1994 to March 2021:
@@ -61,7 +61,7 @@ The data used in this analysis was obtained from the DATASUS aplication TABNET, 
     * DTPA and DT  
 And this information is used to:
   * To compare the progression of each vacine curve in Brasil;
-  * To demonstrate the mosts affecteds states, with a focous on the Northeastern states.
+  * To demonstrate the mosts affecteds states, with a focus on the Northeastern states.
 The Five dataset analysed here, was the numbers cases of fetal deaths ranges from 2003 to 2019, in Brasil 
 * Number of Deaths for Dengue Cases ranges from January 2008 to March 2021:
 And this information is used to:
@@ -99,28 +99,31 @@ This project as said before, was proposed as a second project in the Alura's Boo
 **1. Papers:**
 
 1.1. 
-[Paper1](https://www.scielo.br/pdf/rsbmt/v40n2/a09v40n2.pdf) - Estudo retrospectivo (histórico) da dengue no Brasil: caracteristicas regionais e dinâmicas 
+[Paper1](https://repositorio.ufmg.br/bitstream/1843/BUBD-9CZEKT/1/vacina__o_da_gestante_no_pr__natal___revis_o_integrativa_da_literatura.pdf) - VACINAÇÃO DA GESTANTE NO PRÉ-NATAL – Revisão integrativa da literatura 
 
 1.2. 
-[Paper2](http://scielo.iec.gov.br/scielo.php?script=sci_arttext&pid=S1679-49742007000200006) - Aedes aegypti: histórico do controle no Brasil
+[Paper2](https://www.scielo.br/j/reeusp/a/hDCqhBR6xHvxCSRVVWRffky/abstract/?lang=pt) - Atenção Pré-Natal no Município de Quixadá-CE segundo indicadores de processo do SISPRENATAL
 
 1.3. 
-[Paper3](https://www.scielo.br/j/rsp/a/zCKRhC7DZX9XZmJhYy9cTgx/?lang=pt) - Dengue em localidade urbana da região sudeste do Brasil: aspectos epidemiológicos
+[Paper3](https://scielosp.org/article/csp/1998.v14suppl1/S25-S32/) - Paism: um marco na abordagem da saúde reprodutiva no Brasil
 
 1.4.
-[Paper4](https://www.scielo.br/j/rsp/a/wvzJGdfCKHSQSzG5WYg8wYR/?lang=pt) - Distribuição espacial da dengue e determinantes socioeconômicos em localidade urbana no Sudeste do Brasil
+[Paper4](https://www.scielo.br/j/rbsmi/a/FL8MhyxcgLc7gVRv4BXzPjf/abstract/?lang=pt) - Avaliação da cobertura e indicadores do Programa de Humanização do Pré-natal e Nascimento no município de Salvador, Bahia, Brasil
 
 
 **2. Articels and specialized health sites**
 
-2.1.  [Artcle1](https://g1.globo.com/ciencia-e-saude/noticia/2020/01/15/ministerio-da-saude-diz-que-11-estados-poderao-ter-surto-de-dengue-em-2020.ghtml) - Ministério da Saúde diz que 11 estados poderão ter surto de dengue em 2020
+2.1.  [Artcle1](https://sbim.org.br/images/calendarios/calend-sbim-gestante.pdf) - CALENDÁRIO DE VACINAÇÃO SBIm GESTANTE
+
+2.2. [Article2](http://bvsms.saude.gov.br/bvs/publicacoes/manual_obito_infantil_fetal_2ed.pdf) - Manual de Vigilância do Óbito Infantil e Fetal e do Comitê de Prevenção do Óbito Infantil e Fetal
 
 
-2.2. [Article2](http://www.ioc.fiocruz.br/dengue/textos/longatraje.html) - O mosquito Aedes aegypti faz parte da história e vem se espalhando pelo mundo desde o período das colonizações
+2.3. [Article3](https://www.bio.fiocruz.br/en/images/stories/pdfs/bulas/fa/BM_BUL_045_00_V_190702_FA10Nacional.pdf) - vacina febre amarela(atenuada)5 e 10 doses
+  
+2.4. [Article4](https://saude.abril.com.br/familia/vacina-da-febre-amarela-em-gestantes-quando-tomar/) - Vacina da febre amarela em gestantes: quando tomar 
 
-
-2.3. [Article3](http://www.saude.ba.gov.br/suvisa/vigilancia-epidemiologica/doencas-de-transmissao-vetorial/arboviroses-dengue-chikungunya-zika-e-febre-amarela/) - Arboviroses – Dengue, Chikungunya, Zika e Febre Amarela
-
+2.5. [Article5](https://vacinasparagravidas.com.br/) - Vacinas para Gravidas 
+  
 # Contact
 If you have any tips or suggestions, feel free to contact me here:
 
