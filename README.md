@@ -107,7 +107,11 @@ After this analysis, I have found some conclusions:
 * Other thing that will enhace the project, its looking for dataset most recent, and about the numbers of influenza vaccine curve, once it's are one of most important imunno for pregnant woman and babys. Unfortunately I can't find informantion about this data in DATASUS website. 
 
 # Acknowledgments
-This project as said before, was proposed as a second project in the Alura's Bootcamp, as an introduction to the Data Science world. So I'm gonna say thank you one more time, to Guilherme and Thiago, for the knowledge passed on to the students, to scuba team and all the comunity it was created on the discord, you guys help so many time. THANK YOU :)
+This project as said before, was proposed as a second project in the Alura's Bootcamp, as an introduction to the Data Science world. 
+ 
+So I'm gonna say thank you one more time to Guilherme and Thiago, for the knowledge passed on to the students, and to ScubaTeam and all the comunity it was created on the discord. 
+ 
+You guys helped me so many times!! THANK YOU :)
 
 # References
 **1. Papers:**
