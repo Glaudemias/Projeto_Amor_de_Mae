@@ -1,4 +1,5 @@
-# Projeto_Amor_de_Mae (IN CONSTRUCTION)
+# Project - AMOR DE MÃE
+
 
 [<img src="https://img.shields.io/badge/author-Glaudemias-yellow?style=flat-square"/>](https://github.com/Glaudemias)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZcJLDEQBu6MBYJy_MRp0Ez6EmpDNLuKr?usp=sharing)
 
@@ -16,17 +17,17 @@
 
 # Introduction
 
-This project is the result of module 2, of the Bootcamp in Data Science applied (second edition) proposed by Alura and apoint to some analisys about the numbers of vaccines in pregnant women and fetal deaths from 1994 to 2019 in Brazil and the northeastern states of the country. These [data](#dt) are available in two official website of brazilian gorvenment: 
-* Data about vaccine, were found in the official website of brazilian Bealthcare System: [DATASUS](https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z-1/s/sistema-unico-de-saude-sus-estrutura-principios-e-como-funciona) 
-* Data about fetal death, were found in the official website of Brazilian Institute of Geography and Statistics: [IBGE](https://sidra.ibge.gov.br/tabela/2992) 
+This project is the result of module 2, of the Bootcamp in Data Science applied (second edition) proposed by Alura and apoint to some analysis about the numbers of vaccines in pregnant women and fetal deaths from 1994 to 2019 in Brazil and the northeastern states of the country. These [data](#dt) are available in two official website of Brazilian government:
+* Data about vaccine, were found in the official website of Brazilian Healthcare System: [DATASUS](https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z-1/s/sistema-unico-de-saude-sus-estrutura-principios-e-como-funciona)
+* Data about fetal death, were found in the official website of Brazilian Institute of Geography and Statistics: [IBGE](https://sidra.ibge.gov.br/tabela/2992)
 
-Based on this I'll analyse the vaccine curve in  Brazil and in the states(with a focus on the northeastern states), seeking to answers and trying to understand the dynamics of the relationship between vaccines and  fetal deaths in Braazil.
+Based on this I'll analyze the vaccine curve in Brazil and in the states(with a focus on the northeastern states), seeking to answers and trying to understand the dynamics of the relationship between vaccines and fetal deaths in Brazil.
 
 <p align="center">
-  <img alt="Na imagem tem várias vacinas espalhadas" src="Image/vacina.jpeg" />
+<img alt="Na imagem tem várias vacinas espalhadas" src="Image/vacina.jpeg" />
 
 ## Vaccines x Fetal Death
-  The Vacination of pregnant women its priority to World Health Organization (WHO), and represents the first love act betwen a mother and your baby. The vaccines prevant some complicantion in the birth moment and the diseases development during the child's growth. The maternal antibodies are very important to the baby health in the first 12 months of the pregnancy, when it still in the mother womb. The antibodies provided by the mother, protect the baby, until it can be vaccinated and develops his own immune defenses. 
+The Vacination of pregnant women its priority to World Health Organization (WHO), and represents the first love act between a mother and your baby. The vaccines prevant some complicantion in the birth moment and the diseases development during the child's growth. The maternal antibodies are very important to the baby health in the first 12 months of the pregnancy, when it still in the mother womb. The antibodies provided by the mother, protect the baby, until it can be vaccinated and develops his own immune defenses. 
   
  According to the Brazil Ministry Health , the vaccination of women pregnant reduces the numbers of fetal deaths, wich can be definide as the baby's deaths due to complications during the childbirth or the pragnancy. Besides to influence in the bith rate, the fetal death can be an indicator that help a visualization of spatial distribution, and the quality of woman health assistance. So the vaccination is responsable for avoiding problemns like:     
  
@@ -91,9 +92,22 @@ This project are made in the python 3.8.5, used the Collab the cloud storage ser
 
 <a name="concl"></a>
 # Conclusion
+After this analysis, I have found some conclusions:
+
+* The years with most numbers concentrations about de vaccine's curves and fetal deaths is the period that goes from 2015 to 2018;
+
+ * About numbers of fetal deaths proporcional to number of vaccines, i conclue that some regions like Southeast and Northeast have a low rate of deaths numbers (and that it's a good news). When we look to the plotted maps, we can observe the concentrations of this numbers in the South and North region of the country;
+ 
+ * The analisys focused in northeast states, it was important to understand the distribution of this data in a region apparently unaffected. When we observed the charts with proporcional numbers, we can understand that some states have an expressive numbers of fetal deaths like **Ceará**, **Pernambuco**, **Sergipe** and **Bahia**
+
+## To advance in the analisys 
+
+* One good idea, it will be looking the anual evolution of the cases, in other brazilian region and states.
+ 
+* Other thing that will enhace the project, its looking for dataset most recent, and about the numbers of influenza vaccine curve, once it's are one of most important imunno for pregnant woman and babys. Unfortunately I can't find informantion about this data in DATASUS website. 
 
 # Acknowledgments
-This project as said before, was proposed as a second project in the Alura's Bootcamp, as an introduction to the Data Science world. So I'm gonna say thank you one more time, to Guilherme and Thiago, for the knowledge passed on to the students, to scuba team and all the comunity it was created on the discord, you guys help so many time. THANKYOU :)
+This project as said before, was proposed as a second project in the Alura's Bootcamp, as an introduction to the Data Science world. So I'm gonna say thank you one more time, to Guilherme and Thiago, for the knowledge passed on to the students, to scuba team and all the comunity it was created on the discord, you guys help so many time. THANK YOU :)
 
 # References
 **1. Papers:**
